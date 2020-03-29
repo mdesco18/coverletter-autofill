@@ -21,3 +21,6 @@ Download or clone repository
 5. Download new cover letter with replaced job specific details
 
 **Leave a comment for added replacement values or more features**
+i.e
+1. Multiple description inputs against one sample letter
+2. Download as PDF/Open in Word
