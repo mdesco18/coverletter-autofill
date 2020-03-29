@@ -20,3 +20,4 @@ Download or clone repository
 4. Click `Run` to generate the new cover letter
 5. Download new cover letter with replaced job specific details
 
+### Leave a comment for added replacement values or more features
