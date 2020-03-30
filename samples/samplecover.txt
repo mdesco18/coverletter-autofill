@@ -1,0 +1,19 @@
+#Date#
+
+#Company#
+#Address#
+#Job#
+
+Dear #hiring-manager#,
+
+I am pleased to present the attached resume as my application for #employ-type# employment as a #Job# at #Company#.
+I am a current fourth year Computer Science student, majoring in Software Engineering, participating in the Co-op work experience program at the University of Victoria. Throughout my undergrad, I’ve developed a strong understanding of computer science fundamentals; development strategies such as version control and issue tracking; and software topics including data mining, machine learning, networking, quality assurance, user experience and object-oriented design. I believe the knowledge and experience I’ve gained through study and in projects will transfer well to the position and prove instrumental as a team member.
+
+Body Paragraph 1
+
+Body 2
+
+A co-op position as a #Job# at #Company# would be an excellent opportunity to further develop my skills as a software engineer while being an asset to the technology team. Thank you for considering my application. I look forward to hearing from you.
+
+Sincerely, 
+Marc-Andre Descoteaux
