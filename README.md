@@ -1,5 +1,5 @@
 # coverletter-autofill v1.0
-Simple GUI to autofill pre-made cover letters with job specific details
+Simple GUI to autofill job specific details into specified cover letter
 
 ## Installation
 
