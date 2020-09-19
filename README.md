@@ -17,11 +17,10 @@ Extract the file autofill-coverletter-macOS.zip to a directory of your choice
 
   *Leave a blank value between commas for no input*
 
-3. Choose and upload a file for the sample cover letter (.txt) that will have the details replaced.
+3. Choose and upload a file for the cover letter (.txt) that will have the details replaced.
 4. Click `Run` to generate the new cover letter
 5. Save new cover letter
 
-**Leave a comment for added replacement values or more features**
-i.e
-1. Multiple description inputs against one sample letter
+Planned: 
+1. Multiple description inputs against one letter
 2. Download as PDF/Open in Word
